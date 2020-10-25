@@ -36,4 +36,6 @@ Test: https://console.aws.amazon.com/apigateway/home?region=us-east-1#/apis/9yln
 
 Create table using [AWS DynamoDB Console](https://console.aws.amazon.com/dynamodb/home)
 
-Resource (ARN): arn:aws:dynamodb:us-east-1:424106097484:table/HelloWorldDatabase
+Resource (ARN): arn:aws:dynamodb:us-east-1:424106097484:table/HelloWorldDatabase]
+
+Modify lambda function from module 2 to utilize database
