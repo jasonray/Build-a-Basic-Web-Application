@@ -8,5 +8,7 @@ AWS Amplify, Amazon API Gateway, AWS Lambda, and Amazon DynamoDB
 
 ## Notes
 Created index.html, zipped it up.
-Launched [AWS Amplify](https://aws.amazon.com/amplify/console/)
+Launched [AWS Amplify](https://aws.amazon.com/amplify/console/).  Chose "getting started", deploy from file (could have done from github?).
+
+Deployed: https://dev.d2s4liugez0u7n.amplifyapp.com/
 
