@@ -39,3 +39,7 @@ Create table using [AWS DynamoDB Console](https://console.aws.amazon.com/dynamod
 Resource (ARN): arn:aws:dynamodb:us-east-1:424106097484:table/HelloWorldDatabase]
 
 Modify lambda function from module 2 to utilize database
+
+## Module 5
+[Module 5](https://aws.amazon.com/getting-started/hands-on/build-web-app-s3-lambda-api-gateway-dynamodb/module-five/)
+
