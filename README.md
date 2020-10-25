@@ -43,3 +43,4 @@ Modify lambda function from module 2 to utilize database
 ## Module 5
 [Module 5](https://aws.amazon.com/getting-started/hands-on/build-web-app-s3-lambda-api-gateway-dynamodb/module-five/)
 
+Wire web application to the API from above
