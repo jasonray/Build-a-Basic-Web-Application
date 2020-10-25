@@ -16,3 +16,5 @@ Deployed: https://dev.d2s4liugez0u7n.amplifyapp.com/
 
 ## Module 2
 [Module 2](https://aws.amazon.com/getting-started/hands-on/build-web-app-s3-lambda-api-gateway-dynamodb/module-two/?e=gs2020&p=build-a-web-app-one)
+
+Created Lambda function using the [AWS Lambda Console](https://console.aws.amazon.com/lambda/).
