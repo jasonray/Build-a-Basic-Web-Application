@@ -24,3 +24,5 @@ Created Lambda function using the [AWS Lambda Console](https://console.aws.amazo
 
 ## Module 3
 [Module 3](https://aws.amazon.com/getting-started/hands-on/build-web-app-s3-lambda-api-gateway-dynamodb/module-three/?e=gs2020&p=build-a-web-app-two)
+
+Create API using the [AWS API Gateway Console](https://console.aws.amazon.com/apigateway/)
