@@ -2,7 +2,10 @@
 Following AWS Tutorial https://aws.amazon.com/getting-started/hands-on/build-web-app-s3-lambda-api-gateway-dynamodb/?e=gs2020&amp;p=fullstack
 
 Services Used:
-AWS Amplify, Amazon API Gateway, AWS Lambda, and Amazon DynamoDB
+AWS Amplify: host static content
+Amazon API Gateway: host API 
+AWS Lambda: host serverless functions
+Amazon DynamoDB
 
 ![AWS Serivce](https://d1.awsstatic.com/webteam/getting_started/GSRC%202020%20updates/full-stack%20amplify%20console%20arch%20diagram%20module%205.8d82fc2a7b47b307dfcefb6fa5f364e8c24426bc.png)
 
@@ -18,3 +21,6 @@ Deployed: https://dev.d2s4liugez0u7n.amplifyapp.com/
 [Module 2](https://aws.amazon.com/getting-started/hands-on/build-web-app-s3-lambda-api-gateway-dynamodb/module-two/?e=gs2020&p=build-a-web-app-one)
 
 Created Lambda function using the [AWS Lambda Console](https://console.aws.amazon.com/lambda/).
+
+## Module 3
+[Module 3](https://aws.amazon.com/getting-started/hands-on/build-web-app-s3-lambda-api-gateway-dynamodb/module-three/?e=gs2020&p=build-a-web-app-two)
