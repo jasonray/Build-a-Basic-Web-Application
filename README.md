@@ -5,7 +5,7 @@ Services Used:
 AWS Amplify: host static content
 Amazon API Gateway: host API 
 AWS Lambda: host serverless functions
-Amazon DynamoDB
+Amazon DynamoDB: database storage
 
 ![AWS Serivce](https://d1.awsstatic.com/webteam/getting_started/GSRC%202020%20updates/full-stack%20amplify%20console%20arch%20diagram%20module%205.8d82fc2a7b47b307dfcefb6fa5f364e8c24426bc.png)
 
@@ -44,3 +44,5 @@ Modify lambda function from module 2 to utilize database
 [Module 5](https://aws.amazon.com/getting-started/hands-on/build-web-app-s3-lambda-api-gateway-dynamodb/module-five/)
 
 Wire web application to the API from above
+
+Web Application: https://dev.d2s4liugez0u7n.amplifyapp.com/
