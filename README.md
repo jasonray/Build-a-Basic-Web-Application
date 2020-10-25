@@ -30,3 +30,6 @@ Create API using the [AWS API Gateway Console](https://console.aws.amazon.com/ap
 Deployed to: https://9yln1rp345.execute-api.us-east-1.amazonaws.com/dev/
 
 Test: https://console.aws.amazon.com/apigateway/home?region=us-east-1#/apis/9yln1rp345/resources/75vz585cmh/methods/POST
+
+## Module 4
+[Module 4](https://aws.amazon.com/getting-started/hands-on/build-web-app-s3-lambda-api-gateway-dynamodb/module-four/)
