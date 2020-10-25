@@ -5,3 +5,8 @@ Services Used:
 AWS Amplify, Amazon API Gateway, AWS Lambda, and Amazon DynamoDB
 
 ![AWS Serivce](https://d1.awsstatic.com/webteam/getting_started/GSRC%202020%20updates/full-stack%20amplify%20console%20arch%20diagram%20module%205.8d82fc2a7b47b307dfcefb6fa5f364e8c24426bc.png)
+
+## Notes
+Created index.html, zipped it up.
+Launched [AWS Amplify](https://aws.amazon.com/amplify/console/)
+
