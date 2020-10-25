@@ -33,3 +33,5 @@ Test: https://console.aws.amazon.com/apigateway/home?region=us-east-1#/apis/9yln
 
 ## Module 4
 [Module 4](https://aws.amazon.com/getting-started/hands-on/build-web-app-s3-lambda-api-gateway-dynamodb/module-four/)
+
+Create table using [AWS DynamoDB Console](https://console.aws.amazon.com/dynamodb/home)
